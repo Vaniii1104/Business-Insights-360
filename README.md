@@ -10,9 +10,13 @@ AtliQ's global presence in computer hardware sales faced challenges due to inade
 📊 Key Features:
 
 1️⃣ Financial Overview: Delve into revenue streams, expenditure, and more.
+
 2️⃣ Sales Analysis: Identify top-performing products and clientele.
+
 3️⃣ Marketing Insights: Explore effective strategies and campaign performance.
+
 4️⃣ Supply Chain Management: Optimize inventory levels for seamless operations.
+
 5️⃣ Executive Summary: Empower decision-makers with holistic performance metrics.
 
 💼 Critical Metrics:
